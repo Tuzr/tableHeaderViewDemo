@@ -54,7 +54,7 @@
     
     cell.textLabel.text = [_cellDataArray objectAtIndex:indexPath.row];
     
-    cell.textLabel.font = [UIFont fontWithName:@"arial" size:20];
+    cell.textLabel.font = [UIFont fontWithName:@"arial" size:22];
     
     cell.selectionStyle = UITableViewCellSelectionStyleNone;
     
